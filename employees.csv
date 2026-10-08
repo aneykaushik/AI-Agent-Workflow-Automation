@@ -1,0 +1,4 @@
+employee,skills,workload_pct
+Alice,"python,backend,api",40
+Bob,"python,frontend",85
+Charlie,"javascript,frontend,api",30

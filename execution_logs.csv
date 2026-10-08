@@ -1,0 +1,11 @@
+workflow_id,status,execution_time_ms,step,error
+WF001,success,120,Fetch inventory,
+WF001,success,150,Compare stock,
+WF002,failure,900,Match products,SKU mismatch
+WF002,success,700,Compare prices,
+WF003,success,1100,Validate rows,
+WF003,failure,1400,Validate rows,Missing required field
+WF004,success,2200,Generate description,
+WF005,success,300,Lookup order,
+WF006,success,1600,Similarity,
+WF007,failure,2500,Generate brief,Missing dates

@@ -1,0 +1,3 @@
+order_id,customer_email,status,items,shipment_status,tracking
+ORD-1001,customer@example.com,Shipped,Laptop Stand;Mouse,In transit,TRK12345
+ORD-1002,other@example.com,Processing,USB Hub,Preparing shipment,
